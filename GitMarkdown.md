@@ -31,5 +31,13 @@ $ git config --global user.email johndoe@example.com
  ## 9. Создание веток в Git 
  По умолчанию имя основной ветки в Git 
  *master* 
- Создать ветку можно командой '''git branch <имя новой ветке>''''
+ Создать ветку можно командой '''git branch <имя новой ветке>'''
 Текущая ветка будет отмечена звездочкой: **\*master**
+## 10. Слияние веток в Git.
+**git-merge**— объединить две или более истории разработки вместе
+''' git merge [-n] [--stat] [--no-commit] [--squash] [--[no-]edit]
+	[--no-verify] [-s <strategy>] [-X <strategy-option>] [-S[<keyid>]]
+	[--[no-]allow-unrelated-histories]
+	[--[no-]rerere-autoupdate] [-m <msg>] [-F <file>]
+	[--into-name <branch>] [<commit>…​]
+git merge (--continue | --abort | --quit) ''' 
