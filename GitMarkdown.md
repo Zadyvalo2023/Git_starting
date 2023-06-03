@@ -33,3 +33,4 @@ $ git config --global user.email johndoe@example.com
  *master* 
  Создать ветку можно командой '''git branch <имя новой ветке>''''
 Текущая ветка будет отмечена звездочкой: **\*master**
+## 10 Создаем конфликт слияние веток  
