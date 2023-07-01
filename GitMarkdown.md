@@ -44,3 +44,7 @@ git merge (--continue | --abort | --quit) '''
 ## 11. DESCRIPTION
 Incorporates changes from the named commits (since the time their histories diverged from the current branch) into the current branch. This command is used by git pull to incorporate changes from another repository and can be used by hand to merge changes from one branch into another.q
 Assume the following history exists and the current branch is "maste:
+git frame 
+git blame 
+git log 
+git checkout -b revert 
