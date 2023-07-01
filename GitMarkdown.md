@@ -48,3 +48,5 @@ git frame
 git blame 
 git log 
 git checkout -b revert 
+Забыл добавить сами файлы для синхрона git add 
+Теперь тут новый комит ! 
